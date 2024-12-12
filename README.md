@@ -1,1 +1,3 @@
 # Java-SHA-256
+
+Funções de hash criptográficas são operações matemáticas realizadas em dados digitais; ao comparar o hash computado (ou seja, o resultado produzido pela execução de um algoritmo de hash) com um valor de hash conhecido e esperado, uma pessoa pode determinar a integridade dos dados. Por exemplo, calcular o hash de um arquivo baixado e comparar o resultado com um hash previamente publicado pode mostrar se o download foi modificado ou adulterado. Além disso, as funções de hash criptográficas são extremamente resistentes a colisões; em outras palavras, deve ser extremamente difícil gerar o mesmo resultado de hash a partir de dois valores de entrada diferentes usando uma função de hash criptográfica.
