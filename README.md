@@ -7,3 +7,4 @@ O SHA-256 é uma função de hash criptográfica da família SHA-2 desenvolvida 
    - Dada uma string de entrada, calcular e imprimir o valor de hash SHA-256 correspondente.
    - Por exemplo:
      * Entrada: HelloWorld
+     * Saída: 872e4e50ce9990d8b041330c47c9ddd11bec6b503ae9386a99da8584e9bb12c4
