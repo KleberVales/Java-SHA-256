@@ -17,3 +17,7 @@ O SHA-256 é uma função de hash criptográfica da família SHA-2 desenvolvida 
   
 4. Restrições:
    - A string de entrada pode conter apenas letras do alfabeto inglês (a-z, A-Z) e números (0-9).
+  
+5. Exemplo de Entrada e Saída:
+   - Entrada: Javarmi123
+   - Saída: f1d5f8d75bb55c777207c251d07d9091dc10fe7d6682db869106aacb4b7df678
