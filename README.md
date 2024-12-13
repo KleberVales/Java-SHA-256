@@ -16,3 +16,4 @@ O SHA-256 é uma função de hash criptográfica da família SHA-2 desenvolvida 
    - O valor de hash SHA-256 da string de entrada em formato hexadecimal.
   
 4. Restrições:
+   - A string de entrada pode conter apenas letras do alfabeto inglês (a-z, A-Z) e números (0-9).
