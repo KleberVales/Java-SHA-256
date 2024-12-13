@@ -4,3 +4,4 @@ O SHA-256 é uma função de hash criptográfica da família SHA-2 desenvolvida 
 
 ### Descrição do Problema
 1. Tarefa:
+   - Dada uma string de entrada, calcular e imprimir o valor de hash SHA-256 correspondente.
